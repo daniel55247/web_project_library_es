@@ -356,7 +356,6 @@
   display: flex;
   justify-content: space-between;
   flex-direction: row;
-  background-color: #000000;
 }
 
 .footer__column_content_hours {
